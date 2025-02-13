@@ -1,2 +1,2 @@
-# 100xdevs_cohort
-I will use this to store stuff I learnt from Harkirat's 100xdevs.
+#learning_stuffs
+I will use this repo to keep track of new things I am learning.
